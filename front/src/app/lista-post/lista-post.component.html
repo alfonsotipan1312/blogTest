@@ -1,0 +1,21 @@
+<div class="list-group">
+
+        <a *ngFor="let post of posts" class="list-group-item list-group-item-action flex-column align-items-start">
+            <div class="d-flex w-100 justify-content-between">
+                <h5 class="mb-1">{{post.titulo}}</h5>
+                <small>{{post.fecha}}</small>
+            </div>
+            <p class="mb-1">{{post.descripcion}}</p>
+
+           
+           <div class="d-flex w-100 justify-content-between">
+            <small>{{post.tipo}}</small>
+           </div>
+        </a>
+
+        <div class="d-flex w-100 justify-content-between" *ngIf="!posts">
+            <small>No existen Post registrados</small>
+        </div>
+
+       
+</div>

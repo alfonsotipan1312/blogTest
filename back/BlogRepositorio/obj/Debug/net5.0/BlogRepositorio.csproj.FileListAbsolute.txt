@@ -1,0 +1,17 @@
+C:\Users\KRISS\source\repos\BlogRepositorio\bin\Debug\net5.0\BlogRepositorio.deps.json
+C:\Users\KRISS\source\repos\BlogRepositorio\bin\Debug\net5.0\BlogRepositorio.dll
+C:\Users\KRISS\source\repos\BlogRepositorio\bin\Debug\net5.0\ref\BlogRepositorio.dll
+C:\Users\KRISS\source\repos\BlogRepositorio\bin\Debug\net5.0\BlogRepositorio.pdb
+C:\Users\KRISS\source\repos\BlogRepositorio\bin\Debug\net5.0\BlogBaseDatos.dll
+C:\Users\KRISS\source\repos\BlogRepositorio\bin\Debug\net5.0\BlogDominio.dll
+C:\Users\KRISS\source\repos\BlogRepositorio\bin\Debug\net5.0\BlogBaseDatos.pdb
+C:\Users\KRISS\source\repos\BlogRepositorio\bin\Debug\net5.0\BlogDominio.pdb
+C:\Users\KRISS\source\repos\BlogRepositorio\obj\Debug\net5.0\BlogRepositorio.csproj.AssemblyReference.cache
+C:\Users\KRISS\source\repos\BlogRepositorio\obj\Debug\net5.0\BlogRepositorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KRISS\source\repos\BlogRepositorio\obj\Debug\net5.0\BlogRepositorio.AssemblyInfoInputs.cache
+C:\Users\KRISS\source\repos\BlogRepositorio\obj\Debug\net5.0\BlogRepositorio.AssemblyInfo.cs
+C:\Users\KRISS\source\repos\BlogRepositorio\obj\Debug\net5.0\BlogRepositorio.csproj.CoreCompileInputs.cache
+C:\Users\KRISS\source\repos\BlogRepositorio\obj\Debug\net5.0\BlogRepositorio.csproj.CopyComplete
+C:\Users\KRISS\source\repos\BlogRepositorio\obj\Debug\net5.0\BlogRepositorio.dll
+C:\Users\KRISS\source\repos\BlogRepositorio\obj\Debug\net5.0\ref\BlogRepositorio.dll
+C:\Users\KRISS\source\repos\BlogRepositorio\obj\Debug\net5.0\BlogRepositorio.pdb

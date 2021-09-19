@@ -1,0 +1,34 @@
+<header class="header clearfix">
+    <nav>
+        <ul class="nav nav-pills float-right">
+            <li class="nav-item">
+                <button type="button" class="btn btn-primary">
+                  Principal
+                </button>
+            </li>
+            <li class="nav-item">
+                <button #addPost type="button" class="btn btn-link" data-toggle="modal" data-target="#exampleModal">
+                  Agregar Local
+                </button>
+            </li>
+            <li class="nav-item">
+                <button #addPostRem type="button" class="btn btn-link" data-toggle="modal" data-target="#exampleModalRem">
+                  Agregar Remoto
+                </button>
+            </li>
+        </ul>
+    </nav>
+    <h3 class="text-muted">Blog Alfonso Tipán</h3>
+</header>
+
+<main role="main">
+   
+    <app-lista-post></app-lista-post>
+    <app-agregar-post-local></app-agregar-post-local>
+    <app-agregar-post-remoto></app-agregar-post-remoto>
+    
+</main>
+
+<footer class="footer">
+    <p>&copy; Test Septiembre 2021</p>
+</footer>

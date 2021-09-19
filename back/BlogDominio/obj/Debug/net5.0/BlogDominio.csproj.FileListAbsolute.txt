@@ -1,0 +1,12 @@
+C:\Users\KRISS\source\repos\BlogDominio\bin\Debug\net5.0\BlogDominio.deps.json
+C:\Users\KRISS\source\repos\BlogDominio\bin\Debug\net5.0\BlogDominio.dll
+C:\Users\KRISS\source\repos\BlogDominio\bin\Debug\net5.0\ref\BlogDominio.dll
+C:\Users\KRISS\source\repos\BlogDominio\bin\Debug\net5.0\BlogDominio.pdb
+C:\Users\KRISS\source\repos\BlogDominio\obj\Debug\net5.0\BlogDominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KRISS\source\repos\BlogDominio\obj\Debug\net5.0\BlogDominio.AssemblyInfoInputs.cache
+C:\Users\KRISS\source\repos\BlogDominio\obj\Debug\net5.0\BlogDominio.AssemblyInfo.cs
+C:\Users\KRISS\source\repos\BlogDominio\obj\Debug\net5.0\BlogDominio.csproj.CoreCompileInputs.cache
+C:\Users\KRISS\source\repos\BlogDominio\obj\Debug\net5.0\BlogDominio.dll
+C:\Users\KRISS\source\repos\BlogDominio\obj\Debug\net5.0\ref\BlogDominio.dll
+C:\Users\KRISS\source\repos\BlogDominio\obj\Debug\net5.0\BlogDominio.pdb
+C:\Users\KRISS\source\repos\BlogDominio\obj\Debug\net5.0\BlogDominio.csproj.AssemblyReference.cache
